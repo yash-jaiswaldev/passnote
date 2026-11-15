@@ -13,7 +13,7 @@ const Navbar = () => {
                 </div>
                 <div>
                     <button className='bg-black text-white p-2 rounded-b-lg font-semibold'>
-                        <span><a href=""><img className='w-7 h-auto' src="/icons/git.png" alt="Github" /></a></span></button>
+                        <span><a href="https://github.com/yash-jaiswaldev/passnote/tree/338c745d2637acecb3de6be98811101699597ddd/passnote" target='_blank'><img className='w-7 h-auto' src="/icons/git.png" alt="Github" /></a></span></button>
                 </div>
             </div>
         </nav>
