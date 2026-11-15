@@ -117,9 +117,9 @@ const Manager = () => {
                 transition="Slide"
             />
             <ToastContainer />
-           <div class="absolute inset-0 -z-10 h-full w-full bg-white bg-[linear-gradient(to_right,#f0f0f0_1px,transparent_1px),linear-gradient(to_bottom,#f0f0f0_1px,transparent_1px)] bg-[size:6rem_4rem]"></div>
+           <div className="absolute inset-0 -z-10 h-full w-full bg-white bg-[linear-gradient(to_right,#f0f0f0_1px,transparent_1px),linear-gradient(to_bottom,#f0f0f0_1px,transparent_1px)] bg-[size:6rem_4rem]"></div>
 
-            <div className="md:px-60 md:py-10 min-h-[88.2vh] px-1 py-10 w-fit md:w-full md:mycontainer">
+            <div className="md:px-60 md:py-10 min-h-[88.2vh] px-1 py-10 w-full md:mycontainer">
                 <h1 className='text-4xl font-bold text-center'>
                     <span className='text--600'>&lt;</span>
                     <span>Pass</span><span className='text-green-700'>Note&gt;</span>
